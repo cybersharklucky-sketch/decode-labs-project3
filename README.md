@@ -57,10 +57,10 @@ The **Enterprise Random Password Generator** is a production-ready Python tool t
 ### Clone and Run
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/enterprise-password-generator.git
+git clone https://github.com/cybersharklucky-sketch/decode-labs-project3.git
 
 # Navigate to the directory
-cd enterprise-password-generator
+cd decode-labs-project3
 
 # Run the generator
 python password_generator.py
